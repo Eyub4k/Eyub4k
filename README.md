@@ -44,7 +44,7 @@
 ### Tools
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Cheat Engine](https://img.shields.io/badge/-Cheat%20Engine-3776AB?logo=python&logoColor=white)
+![Cheat Engine](https://img.shields.io/badge/-Cheat%20Engine-3776AB?logo=cheat&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
@@ -57,8 +57,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Eyub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub&layout=compact&theme=radical)
+![Eyub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyub4k&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4k&layout=compact&theme=radical)
 
 ---
 
@@ -71,6 +71,5 @@
 ---
 
 ## 📫 How to Reach Me
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- 📧 **Email**: [your-email@example.com](mailto:celebioglu.eyub@outlook.fr)  
 - 🌟 **GitHub**: You're already here! 😄
