@@ -71,5 +71,5 @@
 ---
 
 ## 📫 How to Reach Me
-- 📧 **Email**: [your-email@example.com](mailto:celebioglu.eyub@outlook.fr)  
+- 📧 **Email**: [celebioglu.eyub@outlook.fr](mailto:celebioglu.eyub@outlook.fr)  
 - 🌟 **GitHub**: You're already here! 😄
