@@ -46,6 +46,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Cheat Engine](https://img.shields.io/badge/-Cheat%20Engine-3776AB?logo=cheat&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![JupyterNotebook](https://img.shields.io/badge/-Git-F05032?logo=JupyterNotebook&logoColor=white)
 
 ---
 
