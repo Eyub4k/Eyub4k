@@ -8,7 +8,8 @@
 ## 🛠️ About Me
 - 🐍 I primarily code in **Python** for projects and personal tools.
 - 🎮 Currently working with friends to develop a **video game** to be published on **Steam**, using **Unity** with **C#**.
-- 📜 Holder of the **IBM AI Engineering Certificate**.
+- 📜 **Holder of the IBM AI Engineering Certificate**  
+- 🎓 **Bachelor's Degree in Computer Science** - University of Clermont Auvergne 
 - 🧪 Experienced in building simulations and working with **C/C++**, **Java**, and **Prolog** during my undergraduate studies.
 - 🌐 Proficient in **web development basics**: `HTML`, `CSS`, and `JavaScript`.
 - 📐 Passionate about solving **discrete mathematics** problems using **SageMath**.
