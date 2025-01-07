@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -61,7 +62,7 @@
 
 ## 📈 GitHub Stats
 ![Eyub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyub4k&show_icons=true&theme=radical&include_all_commits=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4k&layout=compact&theme=grayscale)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4&layout=compact&theme=dark)
 [![Eyub's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eyub4k&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
