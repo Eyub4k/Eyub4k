@@ -60,7 +60,6 @@
 ---
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 ![Eyub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyub4k&show_icons=true&theme=radical&include_all_commits=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4k&layout=compact&theme=radical)
 
