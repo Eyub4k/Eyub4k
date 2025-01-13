@@ -61,7 +61,6 @@
 ---
 
 ## 📈 GitHub Stats
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=Eyub4k.github.io/Eyub4k&title=Profile%20Views)
 ![Eyub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyub4k&show_icons=true&theme=radical&include_all_commits=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4k&layout=compact&theme=tokyonight&hide=javascript,css,scss,html)
 [![Eyub's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eyub4k&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
