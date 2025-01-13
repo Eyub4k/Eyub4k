@@ -64,7 +64,8 @@
 ![Eyub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyub4k&show_icons=true&theme=radical&include_all_commits=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4k&layout=compact&theme=tokyonight&hide=javascript,css,scss,html)
 [![Eyub's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eyub4k&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEyub4k&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=Eyub4k&color=blue)
+
 
 
 ---
