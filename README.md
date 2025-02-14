@@ -82,7 +82,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4k&layout=compact&theme=radical&hide=css,scss,html,jupyternotebook,javascript)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyub4k&layout=compact&theme=radical&hide=css,scss,html,Jupyter Notebook,javascript)
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Eyub4k&show_icons=true&theme=tokyonight)
 [![Eyub's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eyub4k&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Profile Views](https://komarev.com/ghpvc/?username=Eyub4k&color=blue)
