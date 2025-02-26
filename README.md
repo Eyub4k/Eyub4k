@@ -36,6 +36,7 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=assembler&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SageMath](https://img.shields.io/badge/-SageMath-333333?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Libraries
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -53,7 +54,6 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23171717.svg?logo=opengl&style=for-the-badge&labelColor=171717&logoColor=white)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![SageMath](https://img.shields.io/badge/-SageMath-333333?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
