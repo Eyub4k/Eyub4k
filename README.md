@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eyub!
 
-🎓 **Master's student in Computer Science (HPC and Simulation)**  
+🎓 **Master's student in Computer Science)**  
 💻 **Passionate Developer | AI Enthusiast | Game Creator**
 
 ---
