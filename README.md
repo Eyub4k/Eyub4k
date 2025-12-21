@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eyub!
 
-🎓 **Master's student in Computer Science**  
+🎓 **Master's student in Computer Science at the University of Lorraine**  
 💻 **Passionate Developer | AI and Robotics Enthusiast | Game Creator**
 
 ---
