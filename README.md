@@ -10,7 +10,6 @@
 - 📜 **Holder of the IBM AI Engineering Certificate**  
 - 🎓 **Bachelor's Degree in Computer Science** - University of Clermont Auvergne 
 - 🧪 Experienced in building simulations and working with **C/C++** and **Java** during my undergraduate studies.
-- 🌐 Proficient in **web development basics**: `HTML`, `CSS`, and `JavaScript`.
 - 📐 Passionate about solving **discrete mathematics** problems using **SageMath**.
 - 🛠️ I enjoy creating game mods and experimenting with **Cheat Engine** for fun, with a solid understanding of **assembly programming**.
 
