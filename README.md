@@ -6,7 +6,6 @@
 ---
 
 ## 🛠️ About Me
-- 🐍 I primarily code in **Python** for projects and personal tools.
 - 🎮 Currently working with friends to develop a **video game** to be published on **Steam**, using **Unity** with **C#**.
 - 📜 **Holder of the IBM AI Engineering Certificate**  
 - 🎓 **Bachelor's Degree in Computer Science** - University of Clermont Auvergne 
